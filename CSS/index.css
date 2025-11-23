@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+}
+.of ul li :hover{
+   background-color: aqua;
+   transition: all 0.3s ease-in-out; 
+}
+.of ul li a:hover{
+   color: white;
+   transition: all 0.3s ease-in-out; 
+}
